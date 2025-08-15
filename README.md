@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 # 💫 About Me:
 💡 Active learner, creative problem-solver, and tech enthusiast passionate about blending scientific knowledge, programming, and innovation to tackle real-world challenges.<br><br>🔭 Currently exploring Web Development, Machine Learning, and Artificial Intelligence<br>🤝 Open to collaborating on React and Django projects — and excited to share ideas and learn from others<br>🚀 Learning to integrate AI tools into workflows to boost productivity<br>🌱 Expanding skills in front-end and back-end frameworks, with a focus on seamless AI integration
 
