@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 
-👋 Hi, I’m Jude
+## 👋 Hi, I’m Jude
 
 Astronomy & Astrophysics graduate with a background in computational modelling and scientific analysis.
 
@@ -16,45 +16,56 @@ Focused on building scientific computing tools relevant toe Earth observation an
 
 ---
 
-🚧 Current Work
+## 🚧 Current Work
 
-⭐ Stellar Coordinate Explorer (Astropy)
+### 🧪 Science/data identity (primary)
+
+#### ⭐ Stellar Coordinate Explorer (Astropy)
 Building a Python tool to transform and visualize stellar coordinates across reference frames using Astropy.
 
-
+### 🌐 Applications & Systems
+💬 Quote Sharing Platform (React + DRF)
+A group-based social platform for sharing and engaging with quotes, including API-sourced content and user interaction features (likes, reposts, themed communities).
 
 ---
 
-🌍 Selected Projects
+## 🌍 Selected Projects
 
-🌡️ ERA5 Temperature Analysis (Python-based Data Analysis + Calibration)
+### 🌡️ ERA5 Temperature Analysis (Python-based Data Analysis + Calibration)
 Analysis of surface temperature trends over the Mt. Kenya Lewis Glacier region using ERA5 reanalysis data.
 → Time-series analysis, anomaly detection, climate data processing
 
-🌊 Nairobi Flood Analysis (QGIS)
+### 🌊 Nairobi Flood Analysis (QGIS)
 Geospatial flood risk analysis using raster data and GIS techniques
 → Terrain analysis, spatial data processing, visualization
 
-⭐ Stellar Coordinate Explorer (Astropy + Scientific Python + Streamlit)
+### ⭐ Stellar Coordinate Explorer (Astropy + Scientific Python + Streamlit)
 A Python-based tool for transforming and visualizing stellar coordinates across different astronomical reference frames.
 → Astronomical data analysis, coordinate systems, visualization
 
 
 ---
 
-🧠 Skills
+## 🧰 Skills
 
-Scientific Python: NumPy, Pandas, SciPy, Matplotlib, Astropy
+### 🧪 Scientific & Data Computing
+- Python (NumPy, Pandas, SciPy)
+- Astropy
+- Matplotlib
 
-Geospatial: QGIS, raster analysis
+### 🌍 Geospatial Tools
+- QGIS
+- Raster & spatial data processing
 
-Web Dev: Flask, Django, React
-
+### 🌐 Application Development
+- Flask (data-driven web apps)
+- Django (full-stack web applications)
+- React (interactive UIs)
 
 
 ---
 
-🤝 Interests
+## 🤝 Interests
 
 Climate & environmental data (especially East Africa 🌍)
 
@@ -66,7 +77,7 @@ Computational astronomy
 
 ---
 
-📌 Explore My Work
+## 📌 Explore My Work
 
 Check out the pinned repositories below 👇
 
