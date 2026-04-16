@@ -7,12 +7,14 @@ Astronomy & Astrophysics graduate with a background in computational modelling a
 
 I work at the intersection of astronomy, climate data and geospatial systems, using Python and Earth Observation data to explore real-world environmental and physical datasets.
 
+I aim to utilize scientific computing tools to solve environmental challenges in East Africa and perform Astronomy research.
+
 Current Focus:
 - Climate data analysis using ERA5 reanalysis datasets.
 - Geospatial modelling of environmental risks using QGIS.
 - Computational astronomy using Astropy for coordinate transformations.
 
-Focused on building scientific computing tools relevant toe Earth observation and environmental challenges in East Africa.
+
 
 ---
 
