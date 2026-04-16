@@ -24,7 +24,7 @@ Focused on building scientific computing tools relevant toe Earth observation an
 Building a Python tool to transform and visualize stellar coordinates across reference frames using Astropy.
 
 ### 🌐 Applications & Systems
-💬 Quote Sharing Platform (React + DRF)
+#### 💬 Quote Sharing Platform (React + DRF)
 A group-based social platform for sharing and engaging with quotes, including API-sourced content and user interaction features (likes, reposts, themed communities).
 
 ---
