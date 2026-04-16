@@ -48,7 +48,7 @@ Scientific Python: NumPy, Pandas, SciPy, Matplotlib, Astropy
 
 Geospatial: QGIS, raster analysis
 
-Web Dev: Flask, Django, JavaScript
+Web Dev: Flask, Django, React
 
 
 
