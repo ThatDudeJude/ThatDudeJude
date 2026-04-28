@@ -3,11 +3,13 @@
 
 ## 👋 Hi, I’m Jude
 
-Astronomy & Astrophysics graduate with a background in computational modelling and scientific analysis.
+Astronomy & Astrophysics graduate working at the intersection of astronomy, climate science, and geospatial systems.
 
-I work at the intersection of astronomy, climate data and geospatial systems, using Python and Earth Observation data to explore real-world environmental and physical datasets.
+I use Python and Earth observation data to explore real-world environmental and physical phenomena, with a focus on scientific computing and data-driven analysis.
 
-I aim to utilize scientific computing tools to solve environmental challenges in East Africa and perform Astronomy research.
+After completing my BSC in Astronomy & Astrophysics, I built a foundation in full-stack web development (Python, Django, Flask, REST APIs), developing and deploying multiple applications.
+
+I aim to apply that engineering experience to __scientific computing, geopspatial analysis, and astronomy data tools,__ combining a scientist's analytical mindset with an engineer's ability to build and ship reliable systems.
 
 Current Focus:
 - Climate data analysis using ERA5 reanalysis datasets.
